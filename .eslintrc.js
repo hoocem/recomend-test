@@ -32,7 +32,7 @@ module.exports = {
     "no-console": "warn",
     "react/jsx-filename-extension": 1,
     "react/react-in-jsx-scope": 1,
-    "consistent-return": 1,
+    "consistent-return": 0,
     "import/prefer-default-export": 0
   },
 };
